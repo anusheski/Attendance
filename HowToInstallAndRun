@@ -1,0 +1,5 @@
+PhpMyAdmin
+phpmyadmin-ctl install
+
+MySQL
+mysql-ctl start

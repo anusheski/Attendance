@@ -1,0 +1,30 @@
+[30-Nov-2017 20:51:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/AndroidScripts/loginScript.php on line 49
+[30-Nov-2017 21:02:52 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/AndroidScripts/loginScript.php on line 52
+[30-Nov-2017 21:03:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/AndroidScripts/loginScript.php on line 52
+[30-Nov-2017 21:03:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/AndroidScripts/loginScript.php on line 52
+[03-Dec-2017 16:27:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php on line 24
+[03-Dec-2017 16:27:47 UTC] PHP Stack trace:
+[03-Dec-2017 16:27:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:0
+[03-Dec-2017 16:27:47 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:24
+[03-Dec-2017 16:28:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php on line 24
+[03-Dec-2017 16:28:01 UTC] PHP Stack trace:
+[03-Dec-2017 16:28:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:0
+[03-Dec-2017 16:28:01 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:24
+[03-Dec-2017 16:28:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php on line 24
+[03-Dec-2017 16:28:11 UTC] PHP Stack trace:
+[03-Dec-2017 16:28:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:0
+[03-Dec-2017 16:28:11 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:24
+[03-Dec-2017 16:28:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php on line 24
+[03-Dec-2017 16:28:14 UTC] PHP Stack trace:
+[03-Dec-2017 16:28:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:0
+[03-Dec-2017 16:28:14 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:24
+[03-Dec-2017 16:28:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php on line 24
+[03-Dec-2017 16:28:53 UTC] PHP Stack trace:
+[03-Dec-2017 16:28:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:0
+[03-Dec-2017 16:28:53 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/AndroidScripts/getAttendedCourseLessons.php:24
+[03-Dec-2017 18:29:47 UTC] PHP Fatal error:  Call to undefined function consoleLog() in /home/ubuntu/workspace/AndroidScripts/registerToCourse.php on line 14
+[03-Dec-2017 18:29:47 UTC] PHP Stack trace:
+[03-Dec-2017 18:29:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/AndroidScripts/registerToCourse.php:0
+[03-Dec-2017 20:51:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/AndroidScripts/registrationAndroid.php on line 31
+[03-Dec-2017 20:51:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/AndroidScripts/registrationAndroid.php on line 31
+[03-Dec-2017 20:51:27 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/AndroidScripts/registrationAndroid.php on line 31
